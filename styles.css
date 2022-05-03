@@ -1,0 +1,31 @@
+a {
+  text-decoration: none;
+  text-align: center;
+  color: white;
+}
+
+header {
+  height: screen/vh;
+  width: screen/vh;
+  background-color: black;
+  text-align: center;
+}
+
+img {
+  height: 100px;
+  width: 100px;
+}
+
+main {
+  background-color: green;
+  height: screen/vh;
+  width: screen/vh;
+}
+
+li {
+  text-decoration: none;
+}
+
+ul {
+  text-decoration: none;
+}
